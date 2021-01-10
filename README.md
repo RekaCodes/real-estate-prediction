@@ -1,2 +1,2 @@
-# real-estate-screener
-like a stock screener, but for RE investments
+# Real Estate Prediction
+Using machine-learning algorithms and some sophisticated data cleanign and feature engineering, this project will predict real estate prices using the <i>Ames, Iowa</i> dataset.
